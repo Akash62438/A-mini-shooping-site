@@ -1,6 +1,9 @@
 <img width="951" alt="Screenshot 2024-10-20 103317" src="https://github.com/user-attachments/assets/b7c24dfa-949e-4344-91d6-69dae9635820">
 
 
+CHECK MY PROJECT :[https://akash62438.github.io/A-mini-shooping-site/]
+
+
 Welcome to MY mini - shooping site, a modern and intuitive shopping website designed to enhance the online shopping experience for both users and businesses. This project showcases a feature-rich e-commerce platform with a user-friendly interface and robust functionality.
 
 🌟 Features
