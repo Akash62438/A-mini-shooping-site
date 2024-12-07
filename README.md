@@ -4,7 +4,7 @@
 
 
 
-CHECK MY PROJECT :[https://akash62438.github.io/A-mini-shooping-site/]
+CHECK MY PROJECT :[https://akash62438.github.io/A-mini-shopping-site/]
 
 
 Welcome to MY mini - shooping site, a modern and intuitive shopping website designed to enhance the online shopping experience for both users and businesses. This project showcases a feature-rich e-commerce platform with a user-friendly interface and robust functionality.
